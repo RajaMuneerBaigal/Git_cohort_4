@@ -9,12 +9,23 @@ Subject		 :	 Cloud_Computing
 Job-Title	 :	 Intern DevOps
 Organization     :	 IEC
 
-----------
+
+-----------
 Student_2:
 ----------
 Name		 :	 Ahmad Shehanshah
 Class		 :	 Cohort 4
 Subject		 :	 Cloud_Computing
 Job-Title	 :	 DevOps Apprenticeship
-Organization     :	 IEC
+Organization:	 IEC
+
+-----------
+Student_3:
+----------
+Name		 :	 Laveezah Noor
+Class		 :	 Cohort 4
+Subject		 :	 Cloud_Computing
+Job-Title	 :	 Intern DevOps Engineer
+Organization :	 IEC
+--------------
 
